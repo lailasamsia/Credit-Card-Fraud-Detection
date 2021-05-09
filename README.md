@@ -15,3 +15,5 @@ to predict the churned customers. The model for this project is logistic regress
 7. Deployment
 
 ## Result
+
+<img src="cc.jpg"/>
