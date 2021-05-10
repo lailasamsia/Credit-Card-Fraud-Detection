@@ -10,7 +10,6 @@ The project to detect credit card fraud at a bank based on its important feature
 4. Feature Scaling
 5. Modeling
 6. Evaluation
-7. Deployment
 
 ## Result
 
